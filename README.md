@@ -26,7 +26,7 @@
 - **State Management:**  
   Redux, Context API  
 - **Testing:**  
-  Jest, React Testing Library, Cypress (learning)  
+  Jest, React Testing Library
 - **Backend (Basic):**  
   NodeJS (ExpressJS, NestJS), MongoDB, Python, PostgreSQL  
 - **Cloud Platforms:**  
@@ -42,17 +42,71 @@
 
 ---
 
-## 🌍 Open Source Contributions  
-- Active contributor to projects focused on ReactJS, TailwindCSS, and front-end performance.  
-- Advocating for accessible and user-friendly web design in collaborative communities.  
+## 🛠️ Featured Projects  
+
+### **HealthAI**  
+**Description:** AI-powered healthcare platform for data-driven patient care.  
+- **Tech Stack:** ReactJS, TailwindCSS, OpenAI API  
+- **Key Contributions:**  
+  - Designed reusable components.  
+  - Integrated OpenAI API for intelligent recommendations.  
+  - Ensured responsive and accessible UI.  
 
 ---
 
-## 🛠️ Featured Projects  
-- **HealthAI:** AI-powered healthcare platform for data-driven patient care (ReactJS, TailwindCSS, OpenAI API).  
-- **STEAR Logistics Platform:** Web solution for oil resource tracking and transportation (ReactJS, Ant Design, GraphQL).  
-- **PDF Annotation Tool:** Interactive tool for educators and professionals (ReactJS, Canvas, Jest).  
-- **Personal Portfolio Website:** [Link to your portfolio if available]  
+### **STEAR Logistics Platform**  
+**Description:** Web platform for oil resource tracking and transportation.  
+- **Tech Stack:** ReactJS, GraphQL, Ant Design  
+- **Key Contributions:**  
+  - Developed a scalable component library.  
+  - Integrated GraphQL APIs for real-time logistics tracking.  
+  - Implemented dynamic reporting features.  
+
+---
+
+### **PDF Annotation Tool**  
+**Description:** Interactive PDF annotation tool for educators and professionals.  
+- **Tech Stack:** ReactJS, Canvas, Jest  
+- **Key Contributions:**  
+  - Designed intuitive annotation tools.  
+  - Coordinated with stakeholders for iterative improvements.  
+  - Delivered user training sessions for optimal adoption.  
+
+---
+
+### **Vermuda Admin Panel**  
+**Description:** Custom admin platform to manage events and inventory for a game store.  
+- **Tech Stack:** NextJS, Redux, TailwindCSS  
+- **Key Contributions:**  
+  - Led front-end development and integrated APIs.  
+  - Created real-time data visualizations for inventory tracking.  
+  - Conducted user testing to refine the interface.  
+
+---
+
+### **Flight Booking Platform**  
+**Description:** Secure and user-friendly booking platform for flight reservations.  
+- **Tech Stack:** ReactJS, TypeScript, Material UI, MongoDB  
+- **Key Contributions:**  
+  - Defined front-end architecture.  
+  - Streamlined performance and backend API integration.  
+  - Developed a user-friendly search and booking interface.  
+
+---
+
+### **Petronas Energy Management System**  
+**Description:** Dashboard to enhance operational efficiency in energy processes.  
+- **Tech Stack:** Microfrontend, ReactJS, NodeJS, Azure  
+- **Key Contributions:**  
+  - Designed reusable UI components for a microfrontend setup.  
+  - Enhanced backend support for sustainable energy metrics.  
+  - Integrated workflows for real-time data updates.  
+
+---
+
+## 🌍 Open Source Contributions  
+- Active contributor to projects focused on ReactJS, TailwindCSS, and front-end performance.  
+- Advocating for accessible and user-friendly web design in collaborative communities.  
 
 ---
 
